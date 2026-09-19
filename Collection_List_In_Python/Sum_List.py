@@ -1,5 +1,5 @@
 #numbers = int(input("Enter the numbers"))
-numbers = [10,45,82,65,20]
+numbers = [100,45,88,52,20]
 sum = 0
 for num in numbers:
     sum = sum + num
